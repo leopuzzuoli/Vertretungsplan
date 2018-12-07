@@ -1,0 +1,18 @@
+{
+  "ParsedResults": [{
+    "TextOverlay": {
+      "Lines": [],
+      "HasOverlay": false,
+      "Message": "Text overlay is not provided as it is not requested"
+    },
+    "TextOrientation": "0",
+    "FileParseExitCode": 1,
+    "ParsedText": "KURS \r\nLEN31 \r\nLPW32 \r\nGDE33 \r\nGGE36 \r\nGMA33 \r\nGIN3 \r\nGB133 \r\nGMU3 \r\nLEHRER \r\nSR \r\nROS \r\nWSG \r\ncw \r\n",
+    "ErrorMessage": "",
+    "ErrorDetails": ""
+  }],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": "11270",
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
